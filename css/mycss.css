@@ -1,0 +1,20 @@
+/* .headingmenu{
+    padding-top: 26px;
+} */
+
+@media (max-width: 600px) {
+    .mobile-only {
+        display:none !important;
+    }
+ 
+}
+@media (min-width: 1200px) {
+  
+    .desktop-only {
+        display:none !important;
+    }
+}
+
+.borderrounde{
+    border-radius: 60px;
+}
